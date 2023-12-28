@@ -1,0 +1,32 @@
+.profile {
+  border: 1px solid #ccc;
+  padding: 20px;
+  margin: 10px;
+  border-radius: 8px;
+  max-width: 300px;
+}
+
+.description {
+  text-align: center;
+}
+
+.avatar {
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+}
+
+.stats {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.label {
+  font-weight: bold;
+}
+
+.quantity {
+  margin-left: 5px;
+}
